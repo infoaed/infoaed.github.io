@@ -1,8 +1,27 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-
 url: https://infoaed.github.io
+
+lang: et
+locale: et_EE
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  news:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    news:
+      name: Uudised
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false

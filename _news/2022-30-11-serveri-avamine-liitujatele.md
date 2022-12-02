@@ -1,11 +1,10 @@
 ---
+layout: default
 title: "Kogukondliku sotsiaalmeedia server est.social on avatud kõigile liitujatele"
-permalink: /serveri-avamine-liitujatele
-slug: serveri-avamine-liitujatele
-last_modified_at: 2022-11-30
+permalink: /tere-maailm
 ---
 
-__Täna avati kõigile Eesti kasutajale mõeldud kogukondliku sotsiaalmeedia server est.social. Serveri haldajad soovivad pakkuda rahulikumat, rõõmsamat ja tervislikumat alternatiivi probleemides vaevlevatele kommertsvõrgustikele nagu Facebook ja Twitter. Lahendusi nähakse kogukonna kaasamises sisu modereerimisse ja lubatakse kasutajale kontrolli oma infovoo üle.__
+__Täna avati kõigile Eesti kasutajale mõeldud kogukondliku sotsiaalmeedia server [est.social](https://est.social). Serveri haldajad soovivad pakkuda rahulikumat, rõõmsamat ja tervislikumat alternatiivi probleemides vaevlevatele kommertsvõrgustikele nagu Facebook ja Twitter. Lahendusi nähakse kogukonna kaasamises sisu modereerimisse ja lubatakse kasutajale kontrolli oma infovoo üle.__
 
 Server on osa rahvusvahelisest Mastodoni võrgustikust ja seda arendatakse koostöös kasutajatega, ei koguta üleliigseid isikuandmeid ega näidata reklaame. Est.social serveril on avamise päevaks ligi 300 kasutajat, kes liitusid kutsete kaudu testimisperioodil. Kasutajad on uue keskkonnaga rahul ning postiivsena tuuakse välja, et tegu on eestlastelt eestlastele lahendusega, keskkond on reklaamivaba ning arvestatakse rohkem üksteisega.
 
@@ -17,16 +16,16 @@ Järgmisteks plaanideks on luua MTÜ, kui ületatakse tuhande kasutaja piir, ja 
 
 ## Est.social:
 
-* Liitumine veebis: https://est.social/auth/sign_up
-* Androidi äpp: https://play.google.com/store/apps/details?id=org.joinmastodon.android
-* iPhone’i äpp: https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974
-* Juhised uutele liitujatele: https://youtu.be/J4ItbTOAw7Q
-* Algatus Terevisioonis: https://etv.err.ee/1608789463/mastodon
-* Motivatsioonist: https://sisu.ut.ee/dianapoudel/blog/kiire-kokkuvõte-muski-twitteri-draamades-ning-miks-need-probleemiks
+* [Liitumine veebis](https://est.social/auth/sign_up)
+* [Androidi äpp](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
+* [iPhone’i äpp](https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974)
+* [Juhised uutele liitujatele](https://youtu.be/J4ItbTOAw7Q)
+* [Algatus Terevisioonis](https://etv.err.ee/1608789463/mastodon)
+* [Motivatsioonist](https://sisu.ut.ee/dianapoudel/blog/kiire-kokkuvõte-muski-twitteri-draamades-ning-miks-need-probleemiks)
 
 ## Rohkem infot Mastodoni kohta:
 
-* Tutvustusvideo: https://et.wikipedia.org/wiki/Fail:What_is_Mastodon.webm
-* Vikipeedias: https://et.wikipedia.org/wiki/Mastodon_(suhtlusvõrgustik)
-* Mastodon koduleht: https://joinmastodon.org/ 
+* [Tutvustusvideo](https://et.wikipedia.org/wiki/Fail:What_is_Mastodon.webm)
+* [Vikipeedias](https://et.wikipedia.org/wiki/Mastodon_(suhtlusvõrgustik))
+* [Mastodon koduleht](https://joinmastodon.org/)
 
