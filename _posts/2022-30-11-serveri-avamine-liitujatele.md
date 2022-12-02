@@ -1,5 +1,6 @@
 ---
 title: "Kogukondliku sotsiaalmeedia server est.social on avatud kõigile liitujatele"
+permalink: /serveri-avamine-liitujatele
 slug: serveri-avamine-liitujatele
 last_modified_at: 2022-11-30
 ---
