@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
 
 collections:
-  news:
+  posts:
     permalink: "/:collection/:path/"
     output: true
   docs:
@@ -28,14 +28,13 @@ just_the_docs:
       nav_exclude: false
       nav_fold: false
       search_exclude: false
-    news:
+    posts:
       name: Uudised
       nav_exclude: false
       nav_fold: true
       search_exclude: false
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts

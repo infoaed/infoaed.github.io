@@ -1,8 +1,6 @@
 ---
-layout: default
 title: "Kogukondliku sotsiaalmeedia server est.social on avatud"
-permalink: /tere-maailm
-last_modified_at: 2022-11-29
+permalink: /tere-maailm/
 ---
 
 __Täna avati kõigile Eesti kasutajale mõeldud kogukondliku sotsiaalmeedia server [est.social](https://est.social). Serveri haldajad soovivad pakkuda rahulikumat, rõõmsamat ja tervislikumat alternatiivi probleemides vaevlevatele kommertsvõrgustikele nagu Facebook ja Twitter. Lahendusi nähakse kogukonna kaasamises sisu modereerimisse ja lubatakse kasutajale kontrolli oma infovoo üle.__
@@ -15,7 +13,7 @@ Internet Society Estonia MTÜ juhatuse liikme [Märt Põdra](https://est.social/
 
 Järgmisteks plaanideks on luua MTÜ, kui ületatakse tuhande kasutaja piir, ja uuritakse koostöövõimalusi, et kasutajad saaks kontosid soovi korral autentida e-riigi vahendite abil.
 
-## Est.social serverist:
+## Est.social serverist
 
 * [Liitumine veebis](https://est.social/auth/sign_up)
 * [Androidi äpp](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
@@ -24,9 +22,8 @@ Järgmisteks plaanideks on luua MTÜ, kui ületatakse tuhande kasutaja piir, ja 
 * [Algatus Terevisioonis](https://etv.err.ee/1608789463/mastodon)
 * [Motivatsioonist](https://sisu.ut.ee/dianapoudel/blog/kiire-kokkuvõte-muski-twitteri-draamades-ning-miks-need-probleemiks)
 
-## Rohkem infot Mastodoni kohta:
+## Täpsemalt Mastodoni kohta
 
 * [Tutvustusvideo](https://et.wikipedia.org/wiki/Fail:What_is_Mastodon.webm)
 * [Vikipeedias](https://et.wikipedia.org/wiki/Mastodon_(suhtlusvõrgustik))
 * [Mastodon koduleht](https://joinmastodon.org/)
-
