@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: est.social
+description: Juhendid ja abimaterjalid
 theme: just-the-docs
 url: https://infoaed.github.io
 
@@ -7,7 +7,7 @@ lang: et
 locale: et_EE
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Materjalid GitHubis: https://github.com/est-social/est-social.github.io
 
 plugins:
   - jekyll-seo-tag
@@ -17,11 +17,27 @@ collections:
   news:
     permalink: "/:collection/:path/"
     output: true
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
+    docs:
+      name: Juhendid
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
     news:
       name: Uudised
       nav_exclude: false
       nav_fold: true
       search_exclude: false
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
