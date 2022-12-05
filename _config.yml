@@ -40,3 +40,8 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default

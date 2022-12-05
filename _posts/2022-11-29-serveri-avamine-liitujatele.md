@@ -1,6 +1,9 @@
 ---
 title: "Kogukondliku sotsiaalmeedia server est.social on avatud"
 permalink: /tere-maailm/
+layout: post
+author: est.social
+image: "/images/header_logo.jpeg"
 ---
 
 __Täna avati kõigile Eesti kasutajale mõeldud kogukondliku sotsiaalmeedia server [est.social](https://est.social). Serveri haldajad soovivad pakkuda rahulikumat, rõõmsamat ja tervislikumat alternatiivi probleemides vaevlevatele kommertsvõrgustikele nagu Facebook ja Twitter. Lahendusi nähakse kogukonna kaasamises sisu modereerimisse ja lubatakse kasutajale kontrolli oma infovoo üle.__
